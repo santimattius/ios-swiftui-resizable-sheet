@@ -1,6 +1,8 @@
 # ios-swiftui-resizable-sheet
 Resizable Sheet in SwiftUI
 
+Starting from iOS 16 we can present resizable sheets natively in SwiftUI. 
+
 <p align="center">
   <img height="600" src="https://github.com/santimattius/ios-swiftui-resizable-sheet/blob/main/Screenshot/swiftui_resizable_home.png?raw=true" alt="Screenshot home"/>
   <img  height="600" src="https://github.com/santimattius/ios-swiftui-resizable-sheet/blob/main/Screenshot/swiftui_resizable_sheet.png?raw=true" alt="Screenshot home"/>
